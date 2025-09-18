@@ -62,12 +62,6 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-> Caso ainda não exista, você pode gerar o arquivo `requirements.txt` com:
-
-```bash
-pip freeze > requirements.txt
-```
-
 ### 4️⃣ Execute o Projeto
 
 ```bash
